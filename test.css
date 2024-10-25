@@ -1,0 +1,36 @@
+#navi{
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 5px;
+    right: 20px;
+    width:60vw;
+    justify-content: space-evenly;
+}
+body{
+    background-color: gray;
+
+}
+#part1{
+    color:yellow;
+    text-align: center;
+  
+}
+.menu{
+    width:20% ;
+    background-color: rgba(2, 31, 17, 0.935);
+    color: yellow;
+
+}
+#part2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.part2{
+    width: 40vw;
+    color:white;
+    font-size: 1.5em;
+    
+}

@@ -1,0 +1,27 @@
+#part2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 5vw;
+    margin-bottom: 1vw;
+
+}
+#wild1{
+    width: 40%;
+    margin-right:2vw;
+}
+body{
+    background-color: gray;
+}
+#part3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+h1{
+    text-align: center;
+    color: yellow;
+    font-size: 4.5em;
+}
