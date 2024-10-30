@@ -1,0 +1,28 @@
+body{
+    background-color: gray;
+}
+#i1{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+#part2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: stretch;
+    margin-top: 2vw;
+    
+}
+#i2{
+    width: 40vw;
+    height: auto;
+
+}
+#para2{
+    width: 40vw;
+    height: auto;
+    color: white;
+    font-size: 3vw;
+
+}
