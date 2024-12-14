@@ -1,0 +1,193 @@
+body{
+    margin: 0px;
+
+}
+.part1{
+    position: relative;
+    
+}
+#topbar{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    justify-content: space-evenly;
+    background-color: midnightblue;
+    
+   
+}
+.menulinks{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+} 
+.part2{
+    width: 100vw;
+    height: 70vh;
+}
+#p2i{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.part3{
+    background-color: beige;
+}
+.mission{
+  background-color: beige;
+  
+}
+.missionheading{
+    text-align: center;
+    color: green;
+    font-size: 1.5em;
+    font-style: oblique;
+    font-weight: bold;
+}
+.missiontext{
+    width: 90vw;
+    text-align: center;
+    font-size: 1.2em;
+}
+.vision{
+    text-align: center;
+   
+    
+}
+.visionheading{
+    font-size: 1.5em;
+    color: green;
+    font-weight: bold;
+    font-style: oblique;
+}
+.visiontext{
+    width: 90vw;
+    font-size: 1.2em;
+}
+.part4{
+    background-color:white;
+}
+.coursesheading{
+    text-align: center;
+    color: blue;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.courses{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: midnightblue;
+
+}
+.p6courses{
+    line-height: 1.5em;
+    color:white;
+    font-style: italic;
+    font-size: 1.2em;
+    font-weight: bolder;
+
+}
+.part5{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+
+}
+.p5imagecontainer{
+    width: 90%;
+    height: 30vh;
+    margin: 10px auto;
+   
+}
+.p5i{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.part6{
+    background-color: mediumpurple;
+    text-align: center;
+}
+.p6p1{
+    width: 90vw;
+    text-align: center;
+    font-size: 1.2em;
+    color: white;
+    margin: 5px auto;
+}
+.p6imagecontainer{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+.p6imagesubcontainer{
+    width: 90vw;
+    height: 30vh;
+    margin: 10px auto;
+
+}
+.p6i{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.part7{
+    display: flex;
+    flex-direction: row;
+    background-color: beige;
+
+}
+.roundedphoto{
+    width: 20vw;
+    height: 20vw;
+    margin: 5px ;
+   
+    
+}
+.p7i{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 40px;
+   
+    
+   
+}
+blockquote{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 1.2em;
+    line-height: 1.4em;
+
+}
+.part8{
+    width: 100vw;
+    background-color: midnightblue;
+    
+   
+}
+.p8p{
+    width: 90vw;
+    color: white;
+    margin: 1px auto;
+    line-height: 1.2em;
+}
+.part9{
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+
+}
+.contacts{
+    margin: 10px auto;
+    color: white;
+}
+.sociallinks{
+    margin: 5px auto;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
